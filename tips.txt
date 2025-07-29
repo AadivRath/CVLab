@@ -1,1 +1,12 @@
+General:
 -> pip3 list for all installed packages
+-> To create a virtual environment 
+python3 -m venv CVLab
+source bin/activate
+img.shape to see the number of channels
+
+#Lab1:
+Fairly trivial, redo this later
+
+#Lab2:
+cv2.cv.calcHist(images, channels, mask, histSize, ranges[, hist[, accumulate]])
